@@ -2,5 +2,5 @@
     "title":"SYSTEM-WIN20-HJL Blog",
     "subTitle":"Blog",
     "avatarUrl":"https://bloglogo.hjlpan.dpdns.org/logo.png",
-    "GMEEK_VERSION":"last","indexStyle": "\/* ===== \u57FA\u7840\u91CD\u7F6E\u4E0E\u5168\u5C40\u6837\u5F0F ===== *\/\r\nbody {\r\n    background: linear-gradient(135deg, #f5f7fa 0%, #e4e8f0 100%);\r\n    color: #2c3e50;\r\n    font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif;\r\n    line-height: 1.7;\r\n    min-height: 100vh;\r\n}\r\n\/* ===== \u4E3B\u5BB9\u5668\u7F8E\u5316 ===== *\/\r\nbody .container {\r\n    max-width: 780px;\r\n    margin: 3rem auto;\r\n    padding: 2.5rem;\r\n    background: rgba(255, 255, 255, 0.92);\r\n    border-radius: 20px;\r\n    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);\r\n    backdrop-filter: blur(10px);\r\n    border: 1px solid rgba(255, 255, 255, 0.3);\r\n    transition: all 0.3s ease;\r\n}\r\n\/* ===== \u540E\u7EED\u6240\u6709\u4F60\u63D0\u4F9B\u7684\u7F8E\u5316\u4EE3\u7801... \u8FD9\u91CC\u9700\u8981\u4F60\u786E\u4FDD\u590D\u5236\u7684\u662F\u5B8C\u6574\u7684CSS\u4EE3\u7801 *\/"
+    "GMEEK_VERSION":"last"
 }
